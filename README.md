@@ -1,6 +1,6 @@
 # AcornAPI
 
-[![Build Status](https://dev.azure.com/blazewskileszek/Acorn/_apis/build/status/dex1g.AcornAPI?branchName=master)](https://dev.azure.com/blazewskileszek/Acorn/_build/latest?definitionId=4&branchName=master)
+[![Build Status](https://dev.azure.com/blazewskileszek/AcornShowcase/_apis/build/status/LeszekBlazewski.AcornAPI?branchName=master)](https://dev.azure.com/blazewskileszek/AcornShowcase/_build/latest?definitionId=9&branchName=master)
 
 AcornAPI is a simple RESTful API that's designed to provide automation to the process of using **Acorn** bot, however the API can be easily implemented in any other botting application. It provides mechanisms for automated assigning of the accounts to the bots that have been set up (The decisions, that an account is finished or that a bot needs a new account assigned, are left to be implemented client-side - it creates a lot of customization possibilities, while providing a lot of necessary tools).
 
